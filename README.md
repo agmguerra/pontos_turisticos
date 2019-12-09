@@ -1,4 +1,6 @@
 
+Repositório utilizado para as atividades de um curso da Udemy sobre Python Django
+
 Comandos Utilizados
 
 python manage.py createproject pontos_turisticos 
